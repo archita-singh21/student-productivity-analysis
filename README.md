@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyses factors affecting student productivity using survey-based data collected through Google Forms. The collected responses were cleaned, analysed, and visualized using Excel and Power BI to identify trends and generate actionable insights.
+This project analyses factors affecting student productivity using survey-based data collected through Google Forms. The collected responses were cleaned, analysed, and visualised using Excel and Power BI to identify trends and generate actionable insights.
 
 ---
 
@@ -10,7 +10,7 @@ This project analyses factors affecting student productivity using survey-based 
 
 - Design and conduct a student productivity survey.
 - Analyse study habits, distractions, sleep patterns, and productivity levels.
-- Build an interactive Power BI dashboard for data visualization.
+- Build an interactive Power BI dashboard for data visualisation.
 - Generate data-driven recommendations to improve student productivity.
 
 ---
